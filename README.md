@@ -4,16 +4,13 @@ These subgoals and questions should be considered only if, in your judgment, the
 
 ### Newbie Journey
 
-```
 - Learn about the game.
     - Does the game have a tutorial or prologue to teach you the mechanics, controls and features?
 - Beat the game.
     - Have you finished the available game segment?
-```
 
 ### Golden Path Strategy
 
-```
 - Collect, explore and interact with the essential.
     - Which outputs are essential to progression?
     - Which path is essential to progression?
@@ -26,11 +23,9 @@ These subgoals and questions should be considered only if, in your judgment, the
     - Which outputs, in your opinion, were intended by the designer to be collected?
     - Which path, in your opinion, was intended by the designer to be followed?
     - Which NPCs (both friendly and enemies), in your opinion, were intended by the designer to be interacted with?
-```
 
 ### Noob Journey Strategy
 
-```
 - Collect, explore and interact with the remaining.
     - Which outputs were not yet collected?
     - Which paths were not yet explored?
@@ -39,11 +34,9 @@ These subgoals and questions should be considered only if, in your judgment, the
     - Does the game offer any tips or guidance for collecting outputs?
     - Does the game offer any tips or guidance for paths?
     - Does the game offer any tips or guidance to NPCs?
-```
 
 ### Completionist Strategy
 
-```
 - Find and collect every output from the game.
     - Does the game have achievements, items, rewards, badges, or a score system?
     - Are there missable items or rewards?
@@ -61,11 +54,9 @@ These subgoals and questions should be considered only if, in your judgment, the
     - Does the game have enemies?
     - Does the game have interactions with characters (NPCs)?
     - Do defeating enemies or interacting with NPCs unlock additional rewards or paths?
-```
 
 ### Speedrun Strategy
 
-```
 - Use the game objective.
     - Are any of the collectibles necessary to beat the game goal or objective?
     - Are there any obtainable requirements to beat the game goal or objective?
@@ -85,11 +76,9 @@ These subgoals and questions should be considered only if, in your judgment, the
     - Are there any paths necessary to beat your that are locked?
     - Is it possible to beat your goal without defeating enemies (or defeating the smallest possible number)?
     - Does your goal require obligatory interactions with NPCs?
-```
 
 ### Overtime Strategy
 
-```
 - Answer your questions.
     - Do you have any questions that haven't been answered related to outputs?
     - Do you have any questions that haven't been answered related to paths?
@@ -99,4 +88,3 @@ These subgoals and questions should be considered only if, in your judgment, the
     - Do you have any ideas or notes that you haven't tested yet?
     - Have you had any random idea that you want to test?
     - Do you think you could test more in any strategy but did not have the time?
-```

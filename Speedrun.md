@@ -1,0 +1,21 @@
+### Speedrun Strategy
+
+- Use the game objective.
+    - Are any of the collectibles necessary to beat the game goal or objective?
+    - Are there any obtainable requirements to beat the game goal or objective?
+    - Among the available paths, which is the fastest to reach the game goal?
+    - Which path is shorter to reach the game goal?
+    - Are there any tasks or quests required to unlock paths?
+    - Are there any paths necessary to beat the game that are locked?
+    - Is it possible to beat the game without defeating enemies (or defeating the smallest possible number)?
+    - Does the game require obligatory interactions with NPCs?
+    - Do defeating enemies or interacting with NPCs unlock additional rewards or paths?
+- Define a speedrun objective X that is not the current game objective.
+    - Are any of the collectibles necessary to beat your goal or objective?
+    - Are there any obtainable requirements to beat your goal or objective?
+    - Among the available paths, which is the fastest to reach your goal?
+    - Which path is shorter to reach your goal?
+    - Are there any tasks or quests required to unlock paths to your goal?
+    - Are there any paths necessary to beat your that are locked?
+    - Is it possible to beat your goal without defeating enemies (or defeating the smallest possible number)?
+    - Does your goal require obligatory interactions with NPCs?

@@ -2,14 +2,14 @@
 
 These subgoals and questions should be considered only if, in your judgment, they apply to the game being tested.
 
-### ![Newbie Journey](https://github.com/yohanduartep/xploit-guide/blob/main/Newbie_Journey.md)
+#### ![Step 1. Newbie Journey](https://github.com/yohanduartep/xploit-guide/blob/main/Newbie_Journey.md) - Learn the game!
 
-### ![Golden Path](https://github.com/yohanduartep/xploit-guide/blob/main/Golden_Path.md)
+#### ![Step 2. Golden Path](https://github.com/yohanduartep/xploit-guide/blob/main/Golden_Path.md) - Do what the designers want!
 
-### ![Noob Journey](https://github.com/yohanduartep/xploit-guide/blob/main/Noob_Journey.md)
+#### ![Step 3. Noob Journey](https://github.com/yohanduartep/xploit-guide/blob/main/Noob_Journey.md) - Ignore the tips!
 
-### ![Completionist](https://github.com/yohanduartep/xploit-guide/blob/main/Completionist.md)
+#### ![Step 4. Completionist](https://github.com/yohanduartep/xploit-guide/blob/main/Completionist.md) - Collect and complete!
 
-### ![Speedrun](https://github.com/yohanduartep/xploit-guide/blob/main/Speedrun.md)
+#### ![Step 5. Speedrun](https://github.com/yohanduartep/xploit-guide/blob/main/Speedrun.md) - Beat it fast!
 
-### ![Overtime](https://github.com/yohanduartep/xploit-guide/blob/main/Overtime.md)
+#### ![Step 6. Overtime](https://github.com/yohanduartep/xploit-guide/blob/main/Overtime.md) - Questions and notes!

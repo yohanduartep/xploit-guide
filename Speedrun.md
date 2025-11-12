@@ -33,3 +33,6 @@ They aim to achieve goals quickly by ignoring requirements or attempting alterna
 ### Examples
 
 [images/speedrun_1.png]
+
+[images/speedrun_2.png]
+

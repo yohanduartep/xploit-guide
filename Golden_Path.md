@@ -26,4 +26,4 @@ Testers may briefly stop to investigate features of particular interest."
 
 ### Examples
 
-[images/golden_path_1.png]
+![images/golden_path_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/golden_path_1.png)

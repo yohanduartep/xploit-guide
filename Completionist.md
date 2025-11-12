@@ -29,4 +29,4 @@ In this strategy, the tester tries to collect every possible output from the gam
 
 ### Examples
 
-[images/completionist_1.png]
+![images/completionist_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/completionist_1.png)

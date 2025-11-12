@@ -1,5 +1,14 @@
 ### Completionist Strategy
 
+This strategy is the fourth step of XPloiT where testers play the game collecting every possible outcome.
+
+```
+"This strategy helps testers focus on collecting game outputs such as achievements, items, rewards, scores, and upgrades.
+In this strategy, the tester tries to collect every possible output from the game, following the longest path to do so."
+```
+
+### Objectives
+
 - Find and collect every output from the game.
     - Does the game have achievements, items, rewards, badges, or a score system?
     - Are there missable items or rewards?
@@ -17,3 +26,7 @@
     - Does the game have enemies?
     - Does the game have interactions with characters (NPCs)?
     - Do defeating enemies or interacting with NPCs unlock additional rewards or paths?
+
+### Examples
+
+[images/completionist_1.png]

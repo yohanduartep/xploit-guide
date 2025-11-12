@@ -1,5 +1,14 @@
 ### Noob Journey Strategy
 
+This strategy is the third step of XPloiT where testers play the game ignoring all tips and guidance.
+
+```
+"This strategy helps xplore unused or less common paths
+and features, by ignoring the game’s tips and requirements and explore alternative paths to reach the objectives."
+```
+
+### Objectives
+
 - Collect, explore and interact with the remaining.
     - Which outputs were not yet collected?
     - Which paths were not yet explored?
@@ -8,3 +17,7 @@
     - Does the game offer any tips or guidance for collecting outputs?
     - Does the game offer any tips or guidance for paths?
     - Does the game offer any tips or guidance to NPCs?
+
+### Examples
+
+[images/noob_journey_1.png]

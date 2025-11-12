@@ -1,5 +1,15 @@
 ### Speedrun Strategy
 
+This strategy is the fifth step of XPloiT where testers play the game aiming to reach a specific goal as quickly as possible, often by bypassing standard gameplay elements.
+
+```
+"This strategy helps testers try different paths and discover possible exploits.
+Testers learn about the paths and objectives of the game test segment, set new objectives, and attempt to reach them using the shortest available path.
+They aim to achieve goals quickly by ignoring requirements or attempting alternate paths."
+```
+
+### Objectives
+
 - Use the game objective.
     - Are any of the collectibles necessary to beat the game goal or objective?
     - Are there any obtainable requirements to beat the game goal or objective?
@@ -19,3 +29,7 @@
     - Are there any paths necessary to beat your that are locked?
     - Is it possible to beat your goal without defeating enemies (or defeating the smallest possible number)?
     - Does your goal require obligatory interactions with NPCs?
+
+### Examples
+
+[images/speedrun_1.png]

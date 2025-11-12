@@ -1,5 +1,16 @@
 ### Golden Path Strategy
 
+This strategy is the second step of XPloiT where testers play the game as intended by the designers.
+
+```
+"This strategy is set as the second step of XPloiT to help testers play the game as intended by the designers.
+In this strategy, testers play the game as intended by the designers and keep their actions straightforward.
+They follow the main or default path in the game test segment, avoiding deviations.
+Testers may briefly stop to investigate features of particular interest."
+```
+
+### Objectives
+
 - Collect, explore and interact with the essential.
     - Which outputs are essential to progression?
     - Which path is essential to progression?
@@ -12,3 +23,7 @@
     - Which outputs, in your opinion, were intended by the designer to be collected?
     - Which path, in your opinion, was intended by the designer to be followed?
     - Which NPCs (both friendly and enemies), in your opinion, were intended by the designer to be interacted with?
+
+### Examples
+
+[images/golden_path_1.png]

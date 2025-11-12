@@ -20,4 +20,5 @@ This strategy is the sixth step of XPloiT where testers should address questions
 
 ### Examples
 
-
+- A question about a specific NPC's behavior that wasn't fully explored in previous strategies. Interact with that NPC in various ways to see if any new behaviors or dialogues emerge.
+- A note made about a hidden path in the game. Explore that area more thoroughly to see if can uncover anything new in this strategy.

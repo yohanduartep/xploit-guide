@@ -20,4 +20,4 @@ This strategy is the sixth step of XPloiT where testers should address questions
 
 ### Examples
 
-![images/overtime_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/overtime_1.png)
+

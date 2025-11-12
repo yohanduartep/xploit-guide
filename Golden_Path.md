@@ -26,4 +26,6 @@ Testers may briefly stop to investigate features of particular interest."
 
 ### Examples
 
+Here, the main character (1) needs to reach the objective (4). By using the \textit{Golden Path Strategy}, the tester focuses on proceeding directly to the objective without spending much time on items (3) or enemies (2) along the way (blue arrow). However, the tester may briefly stop to investigate features of particular interest (cyan arrow).
+
 ![images/golden_path_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/golden_path_1.png)

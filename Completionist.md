@@ -29,4 +29,6 @@ In this strategy, the tester tries to collect every possible output from the gam
 
 ### Examples
 
+Here, the tester explores the longest path (blue arrow) to reach the objective, defeating every enemy (red circles) and collecting all items along the way (pink circles). Additionally, the tester considers exploring the map (cyan arrow) to search for possible secrets (piece of content within the game that can be missed by the player).
+
 ![images/completionist_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/completionist_1.png)

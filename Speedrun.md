@@ -32,7 +32,10 @@ They aim to achieve goals quickly by ignoring requirements or attempting alterna
 
 ### Examples
 
+Here, the tester considers whether there is a faster path to reach the objective (blue arrow). They might explore climbing platforms, bypassing via a shortcut (cyan arrow), or exploiting potential bugs to quickly reach the objective.
+
 ![images/speedrun_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/speedrun_1.png)
 
-![images/speedrun_2.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/speedrun_2.png)
+A faster path to the objective (blue arrow), where the tester could benefit from the character's spawn to avoid reaching the lower platform. The cyan arrow represents a possible even faster path, eliminating the need for an additional jump. This could lead to the discovery of new bugs.
 
+![images/speedrun_2.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/speedrun_2.png)

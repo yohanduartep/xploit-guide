@@ -21,5 +21,6 @@ and features, by ignoring the game’s tips and requirements and explore alterna
 ### Examples
 
 Here, the tester focuses on reaching the objective by avoiding the expected path (blue arrow) and attempts to reach it through alternative methods without meeting the usual requirements (cyan arrow). Game tips and guides are disregarded.
+
 ![images/noob_journey_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/noob_journey_1.png)
 

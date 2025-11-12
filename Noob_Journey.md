@@ -20,4 +20,4 @@ and features, by ignoring the game’s tips and requirements and explore alterna
 
 ### Examples
 
-[images/noob_journey_1.png]
+![images/noob_journey_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/noob_journey_1.png)

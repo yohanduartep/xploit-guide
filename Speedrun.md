@@ -32,7 +32,7 @@ They aim to achieve goals quickly by ignoring requirements or attempting alterna
 
 ### Examples
 
-[images/speedrun_1.png]
+![images/speedrun_1.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/speedrun_1.png)
 
-[images/speedrun_2.png]
+![images/speedrun_2.png](https://github.com/yohanduartep/xploit-guide/blob/main/images/speedrun_2.png)
 

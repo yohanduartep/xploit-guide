@@ -1,10 +1,10 @@
 ### Completionist Strategy
 
-This strategy is the fourth step of XPloiT where testers play the game collecting every possible outcome.
+In this strategy, testers play the game collecting every possible outcome.
 
 ```
 "This strategy helps testers focus on collecting game outputs such as achievements, items, rewards, scores, and upgrades.
-In this strategy, the tester tries to collect every possible output from the game, following the longest path to do so."
+Here, the tester tries to collect every possible output from the game, following the longest path to do so."
 ```
 
 ### Objectives

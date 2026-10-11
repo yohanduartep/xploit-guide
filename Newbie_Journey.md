@@ -1,12 +1,13 @@
 ### Newbie Journey
 
-In our study, this strategy was designed to help testers become familiar with the game before applying more targeted testing strategies. The Newbie Journey focuses on exploring the game as a new player would, allowing testers to understand the game's mechanics, controls, balance, design, and objectives.
+In our study, this strategy was designed to help testers become familiar with the game before applying more targeted testing strategies.
+
+The Newbie Journey focuses on exploring the game as a new player would, allowing testers to understand the game's mechanics, controls, balance, design, and objectives.
 
 ```
-"We start the XPloiT framework with the Newbie Journey Strategy to familiarize testers with the game.
+"We start the xPloiT framework with the Newbie Journey Strategy to familiarize testers with the game.
 In this strategy, the tester plays through the available game segment for the first time to learn about its mechanics, controls, balance, design, and objectives.
-The tester should avoid spending excessive time exploring during this step.
-After completing the initial playthrough, the tester will have enough experience to decide on the number of sessions and time constraints for later strategies."
+The tester should avoid spending excessive time exploring during this step."
 ```
 
 ### Objectives
